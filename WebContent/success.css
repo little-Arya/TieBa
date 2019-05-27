@@ -1,0 +1,17 @@
+@charset "UTF-8";
+ * {
+            box-sizing: border-box;
+        }
+        body {
+        background-image: url("images/06.jpg");;
+    background-size: 100%100%;
+    background-repeat: no-repeat;
+background-attachment: fixed
+        }
+.all{
+	margin-left:30%;
+	margin-right:30%;
+	margin-top:15px;
+	margin-bottom:10px;
+	border-radius:10px;
+}

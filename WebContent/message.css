@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+ body { 
+    background-image: url("images/08.jpg");
+    background-size: 100%100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+        }
+.all{
+	margin-left:30%;
+	margin-right:30%;
+	margin-top:15px;
+	margin-bottom:10px;
+	border-radius:10px;
+}
+.container input[type="text"] , .container input[type="password"]  {
+            background-color: #FFFFFF;
+            font-size: 16px;
+            color: #50a3a2;
+        }
+        
